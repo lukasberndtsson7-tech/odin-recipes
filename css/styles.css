@@ -1,0 +1,10 @@
+body{
+background-color: black;
+color: white;
+}
+span{
+    font-size: 10px;
+}
+li{
+    color: rgb(245, 139, 0)
+}
