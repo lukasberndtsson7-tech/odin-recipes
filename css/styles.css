@@ -10,8 +10,30 @@ li, h3, h2, h1, p{
 }
 .link, .title{
     text-align: center;
-    background-color: rgb(255, 238, 0);
     color: black;
-} .title{
+    margin: 0px;
+    padding-left: 20px;
+} 
+.title{
     font-size: 50px;
+    padding-top: 60px;
+    padding-bottom: 50px;
+    background-image: url(../images/muffins.jpg);
+}
+.bob{
+    background-color: rgb(0, 0, 0);
+    margin: 200px;
+    border-color: white;
+    border-width: 12px;
+    padding: 180px;
+    background-image: url(../images/lasagna.jpg);
+}
+.secret{
+    margin-top: 0px;
+    margin-bottom: 1px;
+    line-height: 0.5;
+    font-size: xx-small;
+    font-weight: 100;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    color: white;
 }
